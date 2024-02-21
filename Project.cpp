@@ -1,7 +1,6 @@
 #include<graphics.h>
 main()
 {
-
     initwindow(760, 700);
 
     //Sky
